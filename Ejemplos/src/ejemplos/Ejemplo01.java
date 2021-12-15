@@ -31,6 +31,15 @@ public class Ejemplo01 {
         
         // arreglo de tipo boleano
         boolean[] arreglo5 = new boolean[5];
+        
+        // arreglo de tipo double de  10 elementos
+        double[] poblaciones_paises = new double[10];
+        
+      int[] datos = new int[10];
+      char[] vocales = new char[9];
+      String[] nombres = new String[11];
+      boolean[] booleanos = new boolean[10];
+              
     }
 
 }

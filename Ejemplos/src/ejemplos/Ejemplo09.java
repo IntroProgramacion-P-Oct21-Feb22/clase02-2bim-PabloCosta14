@@ -24,13 +24,13 @@ public class Ejemplo09 {
         String[] estudiantes = {"Luis", "Ana", "Mónica", "José", "Juan"};
         
         String mensajeFinal = ""; // variable que acumula un reporte final
-        // Se hace uso del ciclo repetitivo for para recorrer los arreglos
+        // Se hace uso del ciclo repetitivo for para recorrer los arreg los
         // y presentar los valore de las posiciones
         
         for (int i = 0; i < promedios.length; i++) { // estudiantes.length 
             mensajeFinal = String.format("%sEstudiante:%s - promedio: %.4f\n", 
                     mensajeFinal,
-                    estudiantes[i],
+                    estudiantes[i].toUpperCase(),
                     promedios[i]);
         }
         

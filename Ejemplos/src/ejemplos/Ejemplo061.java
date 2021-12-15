@@ -21,7 +21,7 @@ public class Ejemplo061 {
         Scanner entrada = new Scanner(System.in);
         String dato;
         // arreglo de tipo entero
-        String[] arreglo1 = new String[5]; //  se guardaran nombres de personas
+        String[] arreglo1 = new String[7]; //  se guardaran nombres de personas
         
         // Se asigna valores al arreglo, pidiendo valores por teclado
         // se usa un ciclo repetitivo

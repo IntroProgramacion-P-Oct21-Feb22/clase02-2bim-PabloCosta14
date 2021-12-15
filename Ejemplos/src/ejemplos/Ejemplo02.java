@@ -35,7 +35,7 @@ public class Ejemplo02 {
         
         // arreglo de tipo boleano
         boolean[] arreglo5 = new boolean[5];
-        System.out.println(arreglo5[0]);
+        System.out.println(arreglo5[4]);
     }
 
 }
